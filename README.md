@@ -1,4 +1,7 @@
-# my first compose app 
+## my first compose app 
+
+### 수행 작업
+
 • Compose의 정의
 
 • Compose로 UI를 빌드하는 방법
