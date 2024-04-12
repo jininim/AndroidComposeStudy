@@ -1,6 +1,6 @@
-## Basic codelab
+## ✨Basic codelab
 
-### 수행 작업
+### 🚀수행 작업
 
 • Compose의 정의
 
@@ -14,9 +14,9 @@
 
 • 앱 스타일과 테마를 지정하는 방법
 
-## Basic layout codelab
+## ✨Basic layout codelab
 
-### 수행 작업
+### 🚀수행 작업
 
 • 수정자를 사용하여 컴포저블을 보강하는 방법
 
@@ -30,9 +30,9 @@
 
 • 다양한 화면 구성에 맞는 레이아웃을 빌드하는 방법
 
-## Basic State codelab
+## ✨Basic State codelab
 
-### 수행 작업
+### 🚀수행 작업
 
 • Jetpack Compose UI에서 상태 및 이벤트를 고려하는 방법
 
