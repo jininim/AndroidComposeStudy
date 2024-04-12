@@ -14,6 +14,22 @@
 
 • 앱 스타일과 테마를 지정하는 방법
 
+## Basic layout codelab
+
+### 수행 작업
+
+• 수정자를 사용하여 컴포저블을 보강하는 방법
+
+• Column 및 LazyRow와 같은 표준 레이아웃 구성요소로 하위 컴포저블을 배치하는 방법
+
+• 정렬과 배치로 상위 요소 내에서 하위 컴포저블의 위치를 변경하는 방법
+
+• Scaffold 및 하단 탐색과 같은 Material 컴포저블을 사용하여 포괄적인 레이아웃을 만드는 방법
+
+• 슬롯 API를 사용하여 유연한 컴포저블을 빌드하는 방법
+
+• 다양한 화면 구성에 맞는 레이아웃을 빌드하는 방법
+
 ## Basic State codelab
 
 ### 수행 작업
@@ -33,6 +49,8 @@
 • 목록 및 상태를 사용하는 방법: mutableStateListOf 및 toMutableStateList API 사용
 
 • Compose와 함께 ViewModel을 사용하는 방법
+
+
 
 
 
